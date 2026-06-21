@@ -7,7 +7,7 @@
   ],
   "routes": [
     {
-      "src": "/api/(.*)",
+      "src": "/api/latency",
       "dest": "api/latency.py"
     }
   ]
